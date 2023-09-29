@@ -1,1 +1,4 @@
+<<<<<<< HEAD
  hi aall ijci bhbchbchbchbchj
+=======
+>>>>>>> parent of 37a8230 (new data)
